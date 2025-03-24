@@ -1,0 +1,14 @@
+type: PolicyEnforcement
+metadata:
+  policyDefinitionId: 33
+  severity: "High"
+  action: "Alert"
+  conditionValue: ""
+  status: true
+  datasourceTool:
+  - "github"
+  tags:
+  - 1
+  - 11
+  - 13
+  - 17

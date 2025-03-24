@@ -1,0 +1,11 @@
+type: PolicyEnforcement
+metadata:
+  policyDefinitionId: 35
+  severity: "Medium"
+  action: "Alert"
+  conditionValue: ""
+  status: true
+  datasourceTool:
+  - "github"
+  tags:
+  - 3
