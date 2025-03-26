@@ -4,7 +4,7 @@ metadata:
   policyName: "Low Vulnerability Prevention Policy"
   category: "Vulnerability Analysis"
   stage: "artifact"
-  description: "Low Severity Vulnerability should not be found in the artifact"
+  description: "Low 121 Severity Vulnerability should not be found in the artifact"
   scheduled_policy: true
   scriptId: 7
   variables: ""
